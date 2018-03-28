@@ -912,7 +912,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1646589651}
   m_LocalRotation: {x: 0.40821788, y: -0.23456968, z: 0.10938163, w: 0.8754261}
-  m_LocalPosition: {x: 8.835, y: 3, z: -1.372}
+  m_LocalPosition: {x: 524.6, y: 322.6, z: -1.372}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1097,6 +1097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1349721420}
+  angleSpeed: 1
 --- !u!195 &1737442416
 NavMeshAgent:
   m_ObjectHideFlags: 0
