@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/dmhaidong2.unity
+- path: Assets/Scenes/dmhaidong.unity
   isLoaded: 1
   isActive: 1
